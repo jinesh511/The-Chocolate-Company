@@ -16,3 +16,7 @@ Project is created with:
 - Boot Strap
 - Java Script
 - jQuery
+
+## Developed By
+
+Jinesh
